@@ -1,0 +1,28 @@
+# Old information architecture -> new pages.
+/about          /                         301
+/programs       /class-structure          301
+/programs/*     /class-structure          301
+/achievements   /results                  301
+/events         /results                  301
+/olympiad       /pathway                  301
+/subjects       /class-structure          301
+/search         /                         301
+
+# Live legal URLs.
+/terms-and-conditions.html  /terms    301
+/privacy-policy.html        /privacy  301
+/terms-and-conditions       /terms    301
+/privacy-policy             /privacy  301
+
+# Prefer extensionless URLs.
+/index.html             /                 301
+/class-structure.html   /class-structure  301
+/pathway.html           /pathway          301
+/sample-problems.html   /sample-problems  301
+/resources.html         /resources        301
+/results.html           /results          301
+/faculty.html           /faculty          301
+/admissions.html        /admissions       301
+/contact.html           /contact          301
+/terms.html             /terms            301
+/privacy.html           /privacy          301

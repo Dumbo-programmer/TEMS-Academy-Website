@@ -1,0 +1,339 @@
+{
+  "note": "Guides are written by TEMS Academy. Book entries are reference suggestions, not academy publications. Archive links point to the official organisers.",
+  "subjects": [
+    { "id": "all", "label": "All subjects" },
+    { "id": "mathematics", "label": "Mathematics" },
+    { "id": "physics", "label": "Physics" },
+    { "id": "chemistry", "label": "Chemistry" },
+    { "id": "biology", "label": "Biology" }
+  ],
+  "guides": [
+    {
+      "id": "guide-two-pass",
+      "subject": "all",
+      "subjectLabel": "All subjects",
+      "tier": "all",
+      "tierLabel": "All tiers",
+      "title": "The two-pass reading habit",
+      "summary": "Most lost marks start before the first line of working. Read the problem once for the situation, once for the constraints.",
+      "points": [
+        "First pass: what is happening, and what is being asked?",
+        "Second pass: underline every condition, unit and restriction.",
+        "Write down what is given and what is unknown before choosing a method.",
+        "If you feel stuck, re-read the last sentence of the question."
+      ]
+    },
+    {
+      "id": "guide-journal",
+      "subject": "all",
+      "subjectLabel": "All subjects",
+      "tier": "all",
+      "tierLabel": "All tiers",
+      "title": "Keep a solution journal",
+      "summary": "A journal turns a pile of solved problems into a set of methods you can actually reuse.",
+      "points": [
+        "Record the key idea, not the whole solution.",
+        "Name the method in your own words.",
+        "Note the trigger that made the method work.",
+        "Revisit the entry a week later and try the problem again from scratch."
+      ]
+    },
+    {
+      "id": "guide-draw",
+      "subject": "mathematics",
+      "subjectLabel": "Mathematics",
+      "tier": "gamma",
+      "tierLabel": "Gamma",
+      "title": "Draw before you calculate",
+      "summary": "A clean diagram is often the shortest path into a geometry or counting problem.",
+      "points": [
+        "Draw large, label every point and mark equal lengths and angles.",
+        "Look for triangles, circles and parallel lines before writing algebra.",
+        "For counting, draw the cases; do not try to hold them in your head.",
+        "Redraw if the picture becomes crowded."
+      ]
+    },
+    {
+      "id": "guide-units",
+      "subject": "physics",
+      "subjectLabel": "Physics",
+      "tier": "alpha",
+      "tierLabel": "Alpha",
+      "title": "Units, limits and sanity checks",
+      "summary": "A physics answer is not finished until the units and the size of the answer make sense.",
+      "points": [
+        "Carry units through the calculation, not just into the final line.",
+        "Check the limiting cases: what happens if a mass is zero or a time is very large?",
+        "Estimate the answer before calculating it.",
+        "If the answer is wildly different from the estimate, find the error before moving on."
+      ]
+    },
+    {
+      "id": "guide-mole",
+      "subject": "chemistry",
+      "subjectLabel": "Chemistry",
+      "tier": "alpha",
+      "tierLabel": "Alpha",
+      "title": "The mole map",
+      "summary": "Almost every quantitative chemistry problem is a route between mass, moles, concentration and gas volume.",
+      "points": [
+        "Convert everything to moles first.",
+        "Use the balanced equation to move between substances.",
+        "Convert back to the unit the question asks for.",
+        "Check significant figures and units at the end."
+      ]
+    },
+    {
+      "id": "guide-bio",
+      "subject": "biology",
+      "subjectLabel": "Biology",
+      "tier": "alpha",
+      "tierLabel": "Alpha",
+      "title": "Structure, function, evidence",
+      "summary": "When a biology question looks like recall, look for the structure–function link or the data it wants you to interpret.",
+      "points": [
+        "Name the structure and its function in one sentence.",
+        "Link the function to the environment or scale where it matters.",
+        "Quote the data or observation that supports the claim.",
+        "Distinguish correlation from causation in experimental data."
+      ]
+    },
+    {
+      "id": "guide-review",
+      "subject": "all",
+      "subjectLabel": "All subjects",
+      "tier": "sigma",
+      "tierLabel": "Sigma",
+      "title": "How to review a mock paper",
+      "summary": "The review is where most of the improvement happens. Marking the score is the least useful part.",
+      "points": [
+        "Classify every lost mark: concept, method, arithmetic or presentation.",
+        "Rewrite the full solution for each problem you missed.",
+        "Re-attempt the paper after a week without looking at your notes.",
+        "Track whether the same error type reappears."
+      ]
+    },
+    {
+      "id": "guide-proof",
+      "subject": "mathematics",
+      "subjectLabel": "Mathematics",
+      "tier": "sigma",
+      "tierLabel": "Sigma",
+      "title": "Write the proof you wish you had read",
+      "summary": "A proof is an argument for a reader, not a transcript of your thoughts.",
+      "points": [
+        "State what you are proving and the method you will use.",
+        "Introduce every symbol before using it.",
+        "Separate the cases explicitly; do not hide them in a sentence.",
+        "End by connecting the conclusion back to the claim."
+      ]
+    }
+  ],
+  "books": [
+    {
+      "subject": "mathematics",
+      "subjectLabel": "Mathematics",
+      "title": "The Art and Craft of Problem Solving",
+      "author": "Paul Zeitz",
+      "note": "A broad introduction to mathematical problem solving. Useful from Alpha into Sigma.",
+      "level": "Alpha–Sigma"
+    },
+    {
+      "subject": "mathematics",
+      "subjectLabel": "Mathematics",
+      "title": "Problem-Solving Strategies",
+      "author": "Arthur Engel",
+      "note": "A classic collection organized by method, with a wide range of olympiad problems.",
+      "level": "Alpha–Sigma"
+    },
+    {
+      "subject": "mathematics",
+      "subjectLabel": "Mathematics",
+      "title": "Mathematical Olympiad Challenges",
+      "author": "Titu Andreescu & Răzvan Gelca",
+      "note": "Worked problems across algebra, geometry, number theory and combinatorics.",
+      "level": "Alpha–Sigma"
+    },
+    {
+      "subject": "mathematics",
+      "subjectLabel": "Mathematics",
+      "title": "Euclidean Geometry in Mathematical Olympiads",
+      "author": "Evan Chen",
+      "note": "A modern geometry text for serious Sigma work, with a strong emphasis on technique.",
+      "level": "Sigma"
+    },
+    {
+      "subject": "physics",
+      "subjectLabel": "Physics",
+      "title": "200 Puzzling Physics Problems",
+      "author": "P. Gnädig, G. Honyek & K. Riley",
+      "note": "Conceptual problems that reward physical reasoning over formula-hunting.",
+      "level": "Alpha–Sigma"
+    },
+    {
+      "subject": "physics",
+      "subjectLabel": "Physics",
+      "title": "Physics Olympiad: Basic to Advanced Exercises",
+      "author": "The Committee of Japan Physics Olympiad",
+      "note": "Exercises with worked solutions across the olympiad syllabus.",
+      "level": "Alpha–Sigma"
+    },
+    {
+      "subject": "physics",
+      "subjectLabel": "Physics",
+      "title": "Introduction to Classical Mechanics",
+      "author": "David Morin",
+      "note": "A rigorous mechanics reference for advanced students.",
+      "level": "Sigma"
+    },
+    {
+      "subject": "chemistry",
+      "subjectLabel": "Chemistry",
+      "title": "Chemical Principles",
+      "author": "Peter Atkins & Loretta Jones",
+      "note": "A general chemistry reference for atomic structure, bonding and equilibrium.",
+      "level": "Alpha–Sigma"
+    },
+    {
+      "subject": "chemistry",
+      "subjectLabel": "Chemistry",
+      "title": "Organic Chemistry",
+      "author": "Jonathan Clayden, Nick Greeves & Stuart Warren",
+      "note": "A standard organic chemistry text. Reference use for Sigma.",
+      "level": "Sigma"
+    },
+    {
+      "subject": "chemistry",
+      "subjectLabel": "Chemistry",
+      "title": "Physical Chemistry",
+      "author": "Peter Atkins & Julio de Paula",
+      "note": "Thermodynamics, kinetics and electrochemistry for advanced work.",
+      "level": "Sigma"
+    },
+    {
+      "subject": "biology",
+      "subjectLabel": "Biology",
+      "title": "Campbell Biology",
+      "author": "Lisa Urry, Michael Cain, Steven Wasserman, Peter Minorsky & Jane Reece",
+      "note": "The standard general biology reference for cell biology, genetics, physiology and ecology.",
+      "level": "Alpha–Sigma"
+    },
+    {
+      "subject": "biology",
+      "subjectLabel": "Biology",
+      "title": "Molecular Biology of the Cell",
+      "author": "Bruce Alberts et al.",
+      "note": "Cell and molecular biology reference for Sigma.",
+      "level": "Sigma"
+    },
+    {
+      "subject": "biology",
+      "subjectLabel": "Biology",
+      "title": "Biology",
+      "author": "Peter Raven et al.",
+      "note": "A broad general biology text with strong ecology and evolution coverage.",
+      "level": "Alpha–Sigma"
+    }
+  ],
+  "archives": [
+    {
+      "subject": "mathematics",
+      "subjectLabel": "Mathematics",
+      "name": "IMO problems archive",
+      "url": "https://www.imo-official.org/problems.aspx",
+      "note": "Official problems and results by year."
+    },
+    {
+      "subject": "mathematics",
+      "subjectLabel": "Mathematics",
+      "name": "Asia-Pacific Mathematics Olympiad",
+      "url": "https://www.apmo-official.org/",
+      "note": "Official APMO site; problems are published by year."
+    },
+    {
+      "subject": "mathematics",
+      "subjectLabel": "Mathematics",
+      "name": "Bangladesh Mathematical Olympiad",
+      "url": "https://matholympiad.org.bd/",
+      "note": "National route, notices and results."
+    },
+    {
+      "subject": "physics",
+      "subjectLabel": "Physics",
+      "name": "International Physics Olympiad",
+      "url": "https://www.ipho-new.org/",
+      "note": "Official IPhO site, regulations and past papers."
+    },
+    {
+      "subject": "physics",
+      "subjectLabel": "Physics",
+      "name": "Asian Physics Olympiad",
+      "url": "http://asianphysicsolympiad.org/",
+      "note": "Official APhO site and host information."
+    },
+    {
+      "subject": "physics",
+      "subjectLabel": "Physics",
+      "name": "Bangladesh Physics Olympiad",
+      "url": "https://www.bdpho.org/",
+      "note": "National route and notices."
+    },
+    {
+      "subject": "chemistry",
+      "subjectLabel": "Chemistry",
+      "name": "International Chemistry Olympiad",
+      "url": "https://www.ichosc.org/",
+      "note": "Official steering committee site with regulations and host information."
+    },
+    {
+      "subject": "chemistry",
+      "subjectLabel": "Chemistry",
+      "name": "Bangladesh Chemical Society",
+      "url": "https://www.chemicalsociety.org.bd/",
+      "note": "National chemistry body; BChO route and notices."
+    },
+    {
+      "subject": "biology",
+      "subjectLabel": "Biology",
+      "name": "International Biology Olympiad",
+      "url": "https://www.ibo-info.org/",
+      "note": "Official IBO site. The past-paper archive is password-protected for teachers."
+    },
+    {
+      "subject": "biology",
+      "subjectLabel": "Biology",
+      "name": "Bangladesh Biology Olympiad",
+      "url": "https://bdbo.org/",
+      "note": "National route and notices."
+    },
+    {
+      "subject": "junior-science",
+      "subjectLabel": "Junior science",
+      "name": "International Junior Science Olympiad",
+      "url": "https://ijsoweb.org/",
+      "note": "Official IJSO site, regulations and host information."
+    },
+    {
+      "subject": "junior-science",
+      "subjectLabel": "Junior science",
+      "name": "Bangladesh Junior Science Olympiad",
+      "url": "https://bdjso.org/",
+      "note": "National route from registration to the national camp."
+    },
+    {
+      "subject": "junior-science",
+      "subjectLabel": "Junior science",
+      "name": "IMSO headquarters",
+      "url": "https://sites.google.com/view/imso-hq/",
+      "note": "Official IMSO information and host pages."
+    }
+  ],
+  "tips": [
+    "Attempt the problem before reading the solution, even if you only write down what is given.",
+    "Write full solutions, not just final answers. The reasoning is the thing being trained.",
+    "Keep an error log and classify mistakes: concept, method, arithmetic or presentation.",
+    "Revisit a problem after a week. If you cannot restart it, the method is not yet yours.",
+    "Timebox practice papers so that finishing becomes a skill, not an accident.",
+    "Explain a solution out loud to someone else. Gaps in the argument become obvious."
+  ]
+}

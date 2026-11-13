@@ -1,0 +1,488 @@
+{
+  "chairman-bdmso": {
+    "width": 1600,
+    "height": 1231,
+    "src": "assets/img/chairman-bdmso-1600.webp",
+    "sources": [
+      {
+        "width": 480,
+        "height": 369,
+        "webp": "assets/img/chairman-bdmso-480.webp",
+        "avif": "assets/img/chairman-bdmso-480.avif"
+      },
+      {
+        "width": 800,
+        "height": 615,
+        "webp": "assets/img/chairman-bdmso-800.webp",
+        "avif": "assets/img/chairman-bdmso-800.avif"
+      },
+      {
+        "width": 1200,
+        "height": 923,
+        "webp": "assets/img/chairman-bdmso-1200.webp",
+        "avif": "assets/img/chairman-bdmso-1200.avif"
+      },
+      {
+        "width": 1600,
+        "height": 1231,
+        "webp": "assets/img/chairman-bdmso-1600.webp",
+        "avif": "assets/img/chairman-bdmso-1600.avif"
+      }
+    ],
+    "alt": ""
+  },
+  "classroom": {
+    "width": 1600,
+    "height": 859,
+    "src": "assets/img/classroom-1600.webp",
+    "sources": [
+      {
+        "width": 480,
+        "height": 258,
+        "webp": "assets/img/classroom-480.webp",
+        "avif": "assets/img/classroom-480.avif"
+      },
+      {
+        "width": 800,
+        "height": 430,
+        "webp": "assets/img/classroom-800.webp",
+        "avif": "assets/img/classroom-800.avif"
+      },
+      {
+        "width": 1200,
+        "height": 645,
+        "webp": "assets/img/classroom-1200.webp",
+        "avif": "assets/img/classroom-1200.avif"
+      },
+      {
+        "width": 1600,
+        "height": 859,
+        "webp": "assets/img/classroom-1600.webp",
+        "avif": "assets/img/classroom-1600.avif"
+      }
+    ],
+    "alt": ""
+  },
+  "teacher": {
+    "width": 1600,
+    "height": 891,
+    "src": "assets/img/teacher-1600.webp",
+    "sources": [
+      {
+        "width": 480,
+        "height": 267,
+        "webp": "assets/img/teacher-480.webp",
+        "avif": "assets/img/teacher-480.avif"
+      },
+      {
+        "width": 800,
+        "height": 445,
+        "webp": "assets/img/teacher-800.webp",
+        "avif": "assets/img/teacher-800.avif"
+      },
+      {
+        "width": 1200,
+        "height": 668,
+        "webp": "assets/img/teacher-1200.webp",
+        "avif": "assets/img/teacher-1200.avif"
+      },
+      {
+        "width": 1600,
+        "height": 891,
+        "webp": "assets/img/teacher-1600.webp",
+        "avif": "assets/img/teacher-1600.avif"
+      }
+    ],
+    "alt": ""
+  },
+  "ijso-silver": {
+    "width": 1200,
+    "height": 900,
+    "src": "assets/img/ijso-silver-1200.webp",
+    "sources": [
+      {
+        "width": 480,
+        "height": 360,
+        "webp": "assets/img/ijso-silver-480.webp",
+        "avif": "assets/img/ijso-silver-480.avif"
+      },
+      {
+        "width": 800,
+        "height": 600,
+        "webp": "assets/img/ijso-silver-800.webp",
+        "avif": "assets/img/ijso-silver-800.avif"
+      },
+      {
+        "width": 1200,
+        "height": 900,
+        "webp": "assets/img/ijso-silver-1200.webp",
+        "avif": "assets/img/ijso-silver-1200.avif"
+      }
+    ],
+    "alt": ""
+  },
+  "imso-winners": {
+    "width": 800,
+    "height": 573,
+    "src": "assets/img/imso-winners-800.webp",
+    "sources": [
+      {
+        "width": 480,
+        "height": 344,
+        "webp": "assets/img/imso-winners-480.webp",
+        "avif": "assets/img/imso-winners-480.avif"
+      },
+      {
+        "width": 800,
+        "height": 573,
+        "webp": "assets/img/imso-winners-800.webp",
+        "avif": "assets/img/imso-winners-800.avif"
+      }
+    ],
+    "alt": ""
+  },
+  "nabeh-bdmso": {
+    "width": 480,
+    "height": 624,
+    "src": "assets/img/nabeh-bdmso-480.webp",
+    "sources": [
+      {
+        "width": 480,
+        "height": 624,
+        "webp": "assets/img/nabeh-bdmso-480.webp",
+        "avif": "assets/img/nabeh-bdmso-480.avif"
+      }
+    ],
+    "alt": ""
+  },
+  "physics-winners": {
+    "width": 1600,
+    "height": 940,
+    "src": "assets/img/physics-winners-1600.webp",
+    "sources": [
+      {
+        "width": 480,
+        "height": 282,
+        "webp": "assets/img/physics-winners-480.webp",
+        "avif": "assets/img/physics-winners-480.avif"
+      },
+      {
+        "width": 800,
+        "height": 470,
+        "webp": "assets/img/physics-winners-800.webp",
+        "avif": "assets/img/physics-winners-800.avif"
+      },
+      {
+        "width": 1200,
+        "height": 705,
+        "webp": "assets/img/physics-winners-1200.webp",
+        "avif": "assets/img/physics-winners-1200.avif"
+      },
+      {
+        "width": 1600,
+        "height": 940,
+        "webp": "assets/img/physics-winners-1600.webp",
+        "avif": "assets/img/physics-winners-1600.avif"
+      }
+    ],
+    "alt": ""
+  },
+  "math-winners": {
+    "width": 800,
+    "height": 448,
+    "src": "assets/img/math-winners-800.webp",
+    "sources": [
+      {
+        "width": 480,
+        "height": 269,
+        "webp": "assets/img/math-winners-480.webp",
+        "avif": "assets/img/math-winners-480.avif"
+      },
+      {
+        "width": 800,
+        "height": 448,
+        "webp": "assets/img/math-winners-800.webp",
+        "avif": "assets/img/math-winners-800.avif"
+      }
+    ],
+    "alt": ""
+  },
+  "scholarship": {
+    "width": 1200,
+    "height": 591,
+    "src": "assets/img/scholarship-1200.webp",
+    "sources": [
+      {
+        "width": 480,
+        "height": 236,
+        "webp": "assets/img/scholarship-480.webp",
+        "avif": "assets/img/scholarship-480.avif"
+      },
+      {
+        "width": 800,
+        "height": 394,
+        "webp": "assets/img/scholarship-800.webp",
+        "avif": "assets/img/scholarship-800.avif"
+      },
+      {
+        "width": 1200,
+        "height": 591,
+        "webp": "assets/img/scholarship-1200.webp",
+        "avif": "assets/img/scholarship-1200.avif"
+      }
+    ],
+    "alt": ""
+  },
+  "lab-class": {
+    "width": 1600,
+    "height": 1200,
+    "src": "assets/img/lab-class-1600.webp",
+    "sources": [
+      {
+        "width": 480,
+        "height": 360,
+        "webp": "assets/img/lab-class-480.webp",
+        "avif": "assets/img/lab-class-480.avif"
+      },
+      {
+        "width": 800,
+        "height": 600,
+        "webp": "assets/img/lab-class-800.webp",
+        "avif": "assets/img/lab-class-800.avif"
+      },
+      {
+        "width": 1200,
+        "height": 900,
+        "webp": "assets/img/lab-class-1200.webp",
+        "avif": "assets/img/lab-class-1200.avif"
+      },
+      {
+        "width": 1600,
+        "height": 1200,
+        "webp": "assets/img/lab-class-1600.webp",
+        "avif": "assets/img/lab-class-1600.avif"
+      }
+    ],
+    "alt": ""
+  },
+  "lab-two": {
+    "width": 1200,
+    "height": 1600,
+    "src": "assets/img/lab-two-1200.webp",
+    "sources": [
+      {
+        "width": 480,
+        "height": 640,
+        "webp": "assets/img/lab-two-480.webp",
+        "avif": "assets/img/lab-two-480.avif"
+      },
+      {
+        "width": 800,
+        "height": 1067,
+        "webp": "assets/img/lab-two-800.webp",
+        "avif": "assets/img/lab-two-800.avif"
+      },
+      {
+        "width": 1200,
+        "height": 1600,
+        "webp": "assets/img/lab-two-1200.webp",
+        "avif": "assets/img/lab-two-1200.avif"
+      }
+    ],
+    "alt": ""
+  },
+  "lab-one": {
+    "width": 1200,
+    "height": 1437,
+    "src": "assets/img/lab-one-1200.webp",
+    "sources": [
+      {
+        "width": 480,
+        "height": 575,
+        "webp": "assets/img/lab-one-480.webp",
+        "avif": "assets/img/lab-one-480.avif"
+      },
+      {
+        "width": 800,
+        "height": 958,
+        "webp": "assets/img/lab-one-800.webp",
+        "avif": "assets/img/lab-one-800.avif"
+      },
+      {
+        "width": 1200,
+        "height": 1437,
+        "webp": "assets/img/lab-one-1200.webp",
+        "avif": "assets/img/lab-one-1200.avif"
+      }
+    ],
+    "alt": ""
+  },
+  "lab-exam": {
+    "width": 1600,
+    "height": 1200,
+    "src": "assets/img/lab-exam-1600.webp",
+    "sources": [
+      {
+        "width": 480,
+        "height": 360,
+        "webp": "assets/img/lab-exam-480.webp",
+        "avif": "assets/img/lab-exam-480.avif"
+      },
+      {
+        "width": 800,
+        "height": 600,
+        "webp": "assets/img/lab-exam-800.webp",
+        "avif": "assets/img/lab-exam-800.avif"
+      },
+      {
+        "width": 1200,
+        "height": 900,
+        "webp": "assets/img/lab-exam-1200.webp",
+        "avif": "assets/img/lab-exam-1200.avif"
+      },
+      {
+        "width": 1600,
+        "height": 1200,
+        "webp": "assets/img/lab-exam-1600.webp",
+        "avif": "assets/img/lab-exam-1600.avif"
+      }
+    ],
+    "alt": ""
+  },
+  "pi-day-one": {
+    "width": 1200,
+    "height": 704,
+    "src": "assets/img/pi-day-one-1200.webp",
+    "sources": [
+      {
+        "width": 480,
+        "height": 282,
+        "webp": "assets/img/pi-day-one-480.webp",
+        "avif": "assets/img/pi-day-one-480.avif"
+      },
+      {
+        "width": 800,
+        "height": 469,
+        "webp": "assets/img/pi-day-one-800.webp",
+        "avif": "assets/img/pi-day-one-800.avif"
+      },
+      {
+        "width": 1200,
+        "height": 704,
+        "webp": "assets/img/pi-day-one-1200.webp",
+        "avif": "assets/img/pi-day-one-1200.avif"
+      }
+    ],
+    "alt": ""
+  },
+  "pi-day-two": {
+    "width": 1200,
+    "height": 764,
+    "src": "assets/img/pi-day-two-1200.webp",
+    "sources": [
+      {
+        "width": 480,
+        "height": 306,
+        "webp": "assets/img/pi-day-two-480.webp",
+        "avif": "assets/img/pi-day-two-480.avif"
+      },
+      {
+        "width": 800,
+        "height": 509,
+        "webp": "assets/img/pi-day-two-800.webp",
+        "avif": "assets/img/pi-day-two-800.avif"
+      },
+      {
+        "width": 1200,
+        "height": 764,
+        "webp": "assets/img/pi-day-two-1200.webp",
+        "avif": "assets/img/pi-day-two-1200.avif"
+      }
+    ],
+    "alt": ""
+  },
+  "exam-one": {
+    "width": 1600,
+    "height": 1200,
+    "src": "assets/img/exam-one-1600.webp",
+    "sources": [
+      {
+        "width": 480,
+        "height": 360,
+        "webp": "assets/img/exam-one-480.webp",
+        "avif": "assets/img/exam-one-480.avif"
+      },
+      {
+        "width": 800,
+        "height": 600,
+        "webp": "assets/img/exam-one-800.webp",
+        "avif": "assets/img/exam-one-800.avif"
+      },
+      {
+        "width": 1200,
+        "height": 900,
+        "webp": "assets/img/exam-one-1200.webp",
+        "avif": "assets/img/exam-one-1200.avif"
+      },
+      {
+        "width": 1600,
+        "height": 1200,
+        "webp": "assets/img/exam-one-1600.webp",
+        "avif": "assets/img/exam-one-1600.avif"
+      }
+    ],
+    "alt": ""
+  },
+  "exam-two": {
+    "width": 1600,
+    "height": 1200,
+    "src": "assets/img/exam-two-1600.webp",
+    "sources": [
+      {
+        "width": 480,
+        "height": 360,
+        "webp": "assets/img/exam-two-480.webp",
+        "avif": "assets/img/exam-two-480.avif"
+      },
+      {
+        "width": 800,
+        "height": 600,
+        "webp": "assets/img/exam-two-800.webp",
+        "avif": "assets/img/exam-two-800.avif"
+      },
+      {
+        "width": 1200,
+        "height": 900,
+        "webp": "assets/img/exam-two-1200.webp",
+        "avif": "assets/img/exam-two-1200.avif"
+      },
+      {
+        "width": 1600,
+        "height": 1200,
+        "webp": "assets/img/exam-two-1600.webp",
+        "avif": "assets/img/exam-two-1600.avif"
+      }
+    ],
+    "alt": ""
+  },
+  "logo": {
+    "width": 160,
+    "height": 160,
+    "src": "assets/img/logo-160.webp",
+    "sources": [
+      {
+        "width": 96,
+        "height": 96,
+        "webp": "assets/img/logo-96.webp",
+        "avif": "assets/img/logo-96.avif"
+      },
+      {
+        "width": 160,
+        "height": 160,
+        "webp": "assets/img/logo-160.webp",
+        "avif": "assets/img/logo-160.avif"
+      }
+    ],
+    "alt": ""
+  }
+}

@@ -1,0 +1,21 @@
+#:schema https://developers.cloudflare.com/workers/wrangler/configuration/
+
+name = "tems-academy-website"
+compatibility_date = "2026-11-14"
+pages_build_output_dir = "."
+
+# The form endpoint needs RESEND_API_KEY as a secret:
+#   npx wrangler pages secret put RESEND_API_KEY
+#
+# Set APPLY_FROM_EMAIL to an address on a domain verified in Resend before
+# going live. The onboarding@resend.dev fallback can only deliver to the
+# Resend account owner.
+[vars]
+APPLY_TO_EMAIL = "temsonline3.14@gmail.com"
+APPLY_FROM_EMAIL = "TEMS Academy <onboarding@resend.dev>"
+
+# Optional durable rate limit. Create a KV namespace and uncomment:
+#   npx wrangler kv namespace create RATE_LIMIT
+# [[kv_namespaces]]
+# binding = "RATE_LIMIT"
+# id = "REPLACE_WITH_NAMESPACE_ID"

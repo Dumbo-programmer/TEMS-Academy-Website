@@ -1,0 +1,92 @@
+{
+  "org": {
+    "name": "TEMS Academy of Olympiad Math & Science",
+    "shortName": "TEMS Academy",
+    "legalName": "TEMS Academy of Olympiad Math & Science",
+    "established": 2013,
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "email": "temsonline3.14@gmail.com",
+    "whatsapp": "8801771396000",
+    "whatsappDisplay": "+880 1771-396000",
+    "call": "8801771396000",
+    "callNote": "The academy's published phone number for calls and WhatsApp.",
+    "address": {
+      "line1": "House 06, Road 1/1",
+      "line2": "Shekertek Adabor, Mohammadpur-1207",
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "full": "House 06, Road 1/1, Shekertek Adabor, Mohammadpur-1207, Dhaka, Bangladesh"
+    },
+    "mapUrl": "https://maps.app.goo.gl/YcTaqgoKpMDwbAfi7",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=House%2006%2C%20Road%201%2F1%2C%20Shekertek%20Adabor%2C%20Mohammadpur-1207%2C%20Dhaka&z=16&output=embed",
+    "facebook": "https://www.facebook.com/TEMS.MathAcademy/",
+    "officeHours": null,
+    "officeHoursLabel": "To be confirmed",
+    "officeHoursNote": "The academy has not yet supplied published office hours. Message on WhatsApp before visiting.",
+    "languages": ["Bangla", "English"]
+  },
+  "seo": {
+    "siteName": "TEMS Academy",
+    "siteNameFull": "TEMS Academy of Olympiad Math & Science",
+    "defaultDescription": "Olympiad math and science coaching in Dhaka for Classes 3–10. Placed by ability, trained through weekly problem sets, and prepared for BdMO, IJSO, IMSO and international teams.",
+    "canonicalBase": "https://tems-website.jayeed-mahmud.workers.dev",
+    "ogImage": "assets/img/og-image.jpg",
+    "themeColor": "#f7f2e8",
+    "locale": "en_BD"
+  },
+  "nav": [
+    { "label": "Home", "href": "/", "id": "home" },
+    { "label": "Class structure", "href": "/class-structure", "id": "class-structure" },
+    { "label": "Pathway", "href": "/pathway", "id": "pathway" },
+    { "label": "Problems", "href": "/sample-problems", "id": "sample-problems" },
+    { "label": "Resources", "href": "/resources", "id": "resources" },
+    { "label": "Results", "href": "/results", "id": "results" },
+    { "label": "Faculty", "href": "/faculty", "id": "faculty" },
+    { "label": "Admissions", "href": "/admissions", "id": "admissions" },
+    { "label": "Contact", "href": "/contact", "id": "contact" }
+  ],
+  "footerNav": [
+    {
+      "title": "Learn",
+      "links": [
+        { "label": "Class structure", "href": "/class-structure" },
+        { "label": "Olympiad pathway", "href": "/pathway" },
+        { "label": "Sample problems", "href": "/sample-problems" },
+        { "label": "Study resources", "href": "/resources" }
+      ]
+    },
+    {
+      "title": "Academy",
+      "links": [
+        { "label": "Results", "href": "/results" },
+        { "label": "Faculty", "href": "/faculty" },
+        { "label": "Admissions", "href": "/admissions" },
+        { "label": "Contact", "href": "/contact" }
+      ]
+    }
+  ],
+  "cta": { "label": "Apply now", "href": "/admissions" },
+  "fees": {
+    "currency": "Tk",
+    "math": 2500,
+    "science": 2700,
+    "mathLabel": "2,500",
+    "scienceLabel": "2,700",
+    "mathNote": "Mathematics · any division, any tier · per month",
+    "scienceNote": "Science · Physics, Chemistry, Biology and labs · per month",
+    "promotionNote": "The monthly fee does not change when a student is promoted to a higher tier.",
+    "scholarshipNote": "Merit scholarships and cash prizes are awarded separately at the Chairman's discretion."
+  },
+  "identity": {
+    "promise": "Think beyond textbooks. Train for the problems you haven't seen.",
+    "audience": "Classes 3–10 · offline campus in Dhaka",
+    "since": "Training Olympiad students since 2013"
+  },
+  "contactPrompt": "Questions about placement, fees or the diagnostic? Message the academy on WhatsApp or send an application.",
+  "form": {
+    "emailNote": "Applications are emailed to the academy and are not stored in your browser.",
+    "responseNote": "We reply on WhatsApp or by email. Response times vary with the admissions queue.",
+    "fallbackNote": "If the form does not send, message the same details on WhatsApp."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "steps": [
+    {
+      "number": "01",
+      "title": "Apply",
+      "description": "Send the application form on this site or message the academy on WhatsApp with the student’s name, guardian email, WhatsApp number, class, track and any past contest experience."
+    },
+    {
+      "number": "02",
+      "title": "Diagnostic",
+      "description": "The academy arranges a short written diagnostic. It is a placement test, not a pass/fail entrance exam. The length and format are confirmed when the test is arranged."
+    },
+    {
+      "number": "03",
+      "title": "Placement confirmed in writing",
+      "description": "The division, tier, session and monthly fee are confirmed in writing before the first class. If a batch is on hold, the academy will offer the running alternative or the next intake."
+    },
+    {
+      "number": "04",
+      "title": "First class",
+      "description": "The student attends the first class and begins the weekly problem sets. The first monthly benchmark follows at the end of the month."
+    }
+  ],
+  "diagnostic": {
+    "heading": "About the diagnostic",
+    "summary": "The diagnostic tells us what the student can do now. It is not a test to cram for.",
+    "points": [
+      "It places the student by ability, not by school class.",
+      "A strong student can be placed above their school grade; a student who needs consolidation can be placed below it.",
+      "The result is a division and tier: Primary, Junior or Secondary, and Gamma, Alpha or Sigma.",
+      "The placement is reviewed against a monthly benchmark and can change."
+    ]
+  },
+  "bring": {
+    "heading": "What to bring",
+    "summary": "The academy has not published a longer document checklist. Ask if you need a specific document before the diagnostic.",
+    "items": [
+      "The student’s current class and school details.",
+      "A guardian email address and WhatsApp number.",
+      "Any past olympiad results or certificates you want considered (optional).",
+      "A notebook and pen for the diagnostic.",
+      "The written placement confirmation when attending the first class."
+    ]
+  },
+  "fees": {
+    "heading": "Fees",
+    "summary": "One monthly fee per subject. The fee does not change when a student is promoted.",
+    "items": [
+      { "label": "Mathematics", "value": "Tk 2,500 per month", "note": "Any division, any tier." },
+      { "label": "Science", "value": "Tk 2,700 per month", "note": "Physics, Chemistry, Biology and laboratory work." },
+      { "label": "Promotion", "value": "No fee change", "note": "The same monthly fee applies after moving to a higher tier." },
+      { "label": "Scholarships", "value": "Separate", "note": "Merit scholarships and cash prizes are awarded at the Chairman’s discretion." }
+    ],
+    "paymentNote": "The payment method and billing date are confirmed at placement. The academy has not published them on this site."
+  },
+  "firstMonth": {
+    "heading": "The first month",
+    "summary": "A clear sequence, so parents know what is happening and when the placement will be reviewed.",
+    "steps": [
+      { "label": "Before class", "title": "Application, diagnostic, written placement", "description": "The batch, session and fee are confirmed before the student attends." },
+      { "label": "Week 1", "title": "First class and baseline problem set", "description": "The mentor sees how the student works, not just what they already know." },
+      { "label": "Weeks 2–3", "title": "Weekly problem sets and feedback", "description": "Sets are marked and returned. Mistakes are used as teaching material." },
+      { "label": "Week 4", "title": "First monthly benchmark", "description": "The benchmark checks whether the placement still fits. The top quartile may move up; a student who is slipping is re-placed." }
+    ]
+  },
+  "scholarships": {
+    "heading": "Scholarships and prizes",
+    "summary": "Merit scholarships and cash prizes are awarded separately at the Chairman’s discretion. They are not a standard discount and are not guaranteed.",
+    "note": "The academy has not published eligibility criteria or amounts. Ask at the campus or on WhatsApp."
+  },
+  "visit": {
+    "heading": "Visiting before applying",
+    "summary": "Message on WhatsApp before visiting. The academy has not published fixed office hours, so a message is the reliable way to arrange a conversation.",
+    "note": "House 06, Road 1/1, Shekertek Adabor, Mohammadpur-1207, Dhaka."
+  }
+}

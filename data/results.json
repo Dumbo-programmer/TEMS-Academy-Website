@@ -1,0 +1,95 @@
+{
+  "policy": [
+    "Only results supplied or confirmed by the academy are published here.",
+    "Student names appear only when the academy has supplied them. Otherwise the record says “TEMS student” or “TEMS delegation”.",
+    "Years are shown only when confirmed. Records without a confirmed year sit in the undated section.",
+    "Photographs are used with the academy’s permission and captioned as supplied."
+  ],
+  "years": [
+    {
+      "year": "2026",
+      "label": "2026",
+      "summary": "Regional and international selection results reported for the 2026 cycle.",
+      "entries": [
+        {
+          "title": "Regional BdMO 2026",
+          "result": "91+ winners and awardees",
+          "students": "TEMS students",
+          "source": "Regional Bangladesh Mathematical Olympiad 2026",
+          "photo": "chairman-bdmso",
+          "note": "The academy reports 91 or more students and alumni as winners and awardees at the regional round."
+        },
+        {
+          "title": "Asian Physics Olympiad 2026",
+          "result": "Bangladesh team selection",
+          "students": "TEMS students",
+          "source": "Asian Physics Olympiad 2026",
+          "photo": "physics-winners",
+          "note": "TEMS students were part of Bangladesh’s APhO 2026 team selection."
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "label": "2025",
+      "summary": "International junior science result from the 2025 cycle.",
+      "entries": [
+        {
+          "title": "International Junior Science Olympiad 2025",
+          "result": "International medal",
+          "students": "TEMS student",
+          "source": "IJSO 2025 · Russia",
+          "photo": "ijso-silver",
+          "note": "A TEMS student won an international medal at IJSO 2025 in Russia."
+        }
+      ]
+    },
+    {
+      "year": "undated",
+      "label": "Undated records",
+      "summary": "Confirmed achievements for which the academy has not supplied a year. They are listed without one rather than guessed.",
+      "entries": [
+        {
+          "title": "International Mathematics and Science Olympiad",
+          "result": "International delegation",
+          "students": "TEMS delegation",
+          "source": "IMSO",
+          "photo": "imso-winners",
+          "note": "TEMS students represented Bangladesh in an IMSO delegation."
+        },
+        {
+          "title": "BDMSO",
+          "result": "National champion",
+          "students": "Nabeh",
+          "source": "BDMSO national round",
+          "photo": "nabeh-bdmso",
+          "note": "Nabeh became national champion at BDMSO."
+        },
+        {
+          "title": "Bangladesh Physics Olympiad",
+          "result": "National awardees",
+          "students": "TEMS students",
+          "source": "BdPhO",
+          "photo": "physics-winners",
+          "note": "TEMS students were recognised as national awardees."
+        },
+        {
+          "title": "Bangladesh Mathematical Olympiad",
+          "result": "National awardees",
+          "students": "TEMS students",
+          "source": "BdMO",
+          "photo": "math-winners",
+          "note": "TEMS students were recognised as national awardees."
+        },
+        {
+          "title": "Chairman’s merit scholarships",
+          "result": "Merit scholarships and cash prizes",
+          "students": "TEMS students",
+          "source": "TEMS Academy",
+          "photo": "scholarship",
+          "note": "Awarded separately at the Chairman’s discretion; individual amounts are not published."
+        }
+      ]
+    }
+  ]
+}

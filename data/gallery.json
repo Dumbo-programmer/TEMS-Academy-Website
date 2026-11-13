@@ -1,0 +1,183 @@
+{
+  "note": "Photographs supplied by TEMS Academy and used with permission. Captions describe what the academy supplied; dates are shown only where confirmed.",
+  "filters": [
+    { "id": "all", "label": "All photographs" },
+    { "id": "achievements", "label": "Achievements" },
+    { "id": "classroom", "label": "Classroom" },
+    { "id": "laboratory", "label": "Laboratory" },
+    { "id": "exams", "label": "Exams" },
+    { "id": "pi-day", "label": "Pi Day" }
+  ],
+  "items": [
+    {
+      "id": "chairman-bdmso",
+      "image": "chairman-bdmso",
+      "category": "achievements",
+      "categoryLabel": "Achievements",
+      "caption": "The Chairman with BDMSO winners at TEMS Academy.",
+      "alt": "TEMS Chairman seated with BDMSO winners at the academy.",
+      "orientation": "landscape",
+      "featured": false
+    },
+    {
+      "id": "classroom",
+      "image": "classroom",
+      "category": "classroom",
+      "categoryLabel": "Classroom",
+      "caption": "A classroom session at the Adabor campus.",
+      "alt": "Students working at desks during a TEMS classroom session.",
+      "orientation": "landscape",
+      "featured": true
+    },
+    {
+      "id": "teacher",
+      "image": "teacher",
+      "category": "classroom",
+      "categoryLabel": "Classroom",
+      "caption": "A mentor working through a problem at the board.",
+      "alt": "A teacher explaining a problem at the board during class.",
+      "orientation": "landscape",
+      "featured": true
+    },
+    {
+      "id": "ijso-silver",
+      "image": "ijso-silver",
+      "category": "achievements",
+      "categoryLabel": "Achievements",
+      "caption": "IJSO 2025 medal photograph.",
+      "alt": "IJSO 2025 medal photograph from TEMS Academy.",
+      "orientation": "landscape",
+      "featured": false
+    },
+    {
+      "id": "imso-winners",
+      "image": "imso-winners",
+      "category": "achievements",
+      "categoryLabel": "Achievements",
+      "caption": "IMSO winners from Bangladesh.",
+      "alt": "IMSO winners from Bangladesh standing together.",
+      "orientation": "landscape",
+      "featured": false
+    },
+    {
+      "id": "nabeh-bdmso",
+      "image": "nabeh-bdmso",
+      "category": "achievements",
+      "categoryLabel": "Achievements",
+      "caption": "Nabeh, BDMSO national champion, with the TEMS Chairman.",
+      "alt": "Nabeh, BDMSO national champion, with the TEMS Chairman.",
+      "orientation": "portrait",
+      "featured": true
+    },
+    {
+      "id": "physics-winners",
+      "image": "physics-winners",
+      "category": "achievements",
+      "categoryLabel": "Achievements",
+      "caption": "Physics Olympiad winners from TEMS.",
+      "alt": "Physics Olympiad winners holding certificates and medals.",
+      "orientation": "landscape",
+      "featured": false
+    },
+    {
+      "id": "math-winners",
+      "image": "math-winners",
+      "category": "achievements",
+      "categoryLabel": "Achievements",
+      "caption": "Mathematics Olympiad winners from TEMS.",
+      "alt": "Mathematics Olympiad winners photographed together.",
+      "orientation": "landscape",
+      "featured": false
+    },
+    {
+      "id": "scholarship",
+      "image": "scholarship",
+      "category": "achievements",
+      "categoryLabel": "Achievements",
+      "caption": "The Chairman presenting prize money to students.",
+      "alt": "The TEMS Chairman handing prize money to a student.",
+      "orientation": "landscape",
+      "featured": false
+    },
+    {
+      "id": "lab-class",
+      "image": "lab-class",
+      "category": "laboratory",
+      "categoryLabel": "Laboratory",
+      "caption": "Students working in the science laboratory.",
+      "alt": "Students working in the TEMS science laboratory.",
+      "orientation": "landscape",
+      "featured": true
+    },
+    {
+      "id": "lab-two",
+      "image": "lab-two",
+      "category": "laboratory",
+      "categoryLabel": "Laboratory",
+      "caption": "Laboratory apparatus during a science session.",
+      "alt": "Laboratory apparatus during a TEMS science session.",
+      "orientation": "portrait",
+      "featured": false
+    },
+    {
+      "id": "lab-one",
+      "image": "lab-one",
+      "category": "laboratory",
+      "categoryLabel": "Laboratory",
+      "caption": "Practical work at the bench.",
+      "alt": "A student working with laboratory equipment at TEMS.",
+      "orientation": "portrait",
+      "featured": true
+    },
+    {
+      "id": "lab-exam",
+      "image": "lab-exam",
+      "category": "laboratory",
+      "categoryLabel": "Laboratory",
+      "caption": "A practical examination in the laboratory.",
+      "alt": "Students sitting a practical examination in the laboratory.",
+      "orientation": "landscape",
+      "featured": false
+    },
+    {
+      "id": "pi-day-one",
+      "image": "pi-day-one",
+      "category": "pi-day",
+      "categoryLabel": "Pi Day",
+      "caption": "Pi Day at TEMS Academy.",
+      "alt": "Students and mentors at a Pi Day celebration at TEMS.",
+      "orientation": "landscape",
+      "featured": true
+    },
+    {
+      "id": "pi-day-two",
+      "image": "pi-day-two",
+      "category": "pi-day",
+      "categoryLabel": "Pi Day",
+      "caption": "Pi Day activities in a classroom.",
+      "alt": "Pi Day activities in a TEMS classroom.",
+      "orientation": "landscape",
+      "featured": false
+    },
+    {
+      "id": "exam-one",
+      "image": "exam-one",
+      "category": "exams",
+      "categoryLabel": "Exams",
+      "caption": "A monthly benchmark in progress.",
+      "alt": "Students focused on a written examination at TEMS.",
+      "orientation": "landscape",
+      "featured": true
+    },
+    {
+      "id": "exam-two",
+      "image": "exam-two",
+      "category": "exams",
+      "categoryLabel": "Exams",
+      "caption": "Students writing a benchmark paper.",
+      "alt": "Students writing an examination in a TEMS classroom.",
+      "orientation": "landscape",
+      "featured": false
+    }
+  ]
+}

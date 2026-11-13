@@ -1,0 +1,248 @@
+{
+  "lastChecked": "14 November 2026",
+  "lastCheckedLabel": "Facts checked 14 November 2026",
+  "disclaimer": "Olympiad rules, dates and eligibility change. This page records what the official sources said on the check date. Confirm with the organiser before relying on a date or entry rule.",
+  "intro": "Each subject has its own national route. The stages below are the usual progression; the official organiser controls registration, rounds and team selection. TEMS prepares students for the problem style at each stage but does not select national teams.",
+  "subjects": [
+    {
+      "id": "mathematics",
+      "subject": "Mathematics",
+      "tagline": "BdMO → national round → IMO and APMO",
+      "summary": "The Bangladesh Mathematical Olympiad is the main national route, with regional rounds feeding a national stage. The strongest students may be invited to selection camps for the IMO, and Bangladesh also competes in the Asia-Pacific Mathematics Olympiad.",
+      "stages": [
+        {
+          "name": "School & regional",
+          "description": "The BdMO season runs from December to February. School and regional rounds are the usual entry point; the official site publishes the current registration route for each class."
+        },
+        {
+          "name": "National",
+          "description": "Regional winners and high scorers progress to the national round. The BdMO is open to students from Class I to Class XII, so the national stage spans primary through higher secondary."
+        },
+        {
+          "name": "Selection",
+          "description": "National winners and awardees may be invited to training and selection camps for international teams. Selection is controlled by the organiser, not by any coaching academy."
+        },
+        {
+          "name": "International",
+          "description": "Bangladesh sends a team to the International Mathematical Olympiad and competes in the Asia-Pacific Mathematics Olympiad. Both are proof-based competitions."
+        }
+      ],
+      "international": [
+        {
+          "name": "IMO",
+          "fullName": "International Mathematical Olympiad",
+          "url": "https://www.imo-official.org/",
+          "note": "Six problems over two days. National teams are selected through each country’s official route.",
+          "eligibility": "Under 20 and not enrolled in tertiary education."
+        },
+        {
+          "name": "APMO",
+          "fullName": "Asia-Pacific Mathematics Olympiad",
+          "url": "https://www.apmo-official.org/",
+          "note": "Five problems in four hours. Bangladesh competes in the Asia-Pacific region.",
+          "eligibility": "Students from participating Asia-Pacific countries and regions."
+        }
+      ],
+      "facts": [
+        { "label": "BdMO began", "value": "April 2001" },
+        { "label": "BdMO eligibility", "value": "Class I–XII" },
+        { "label": "BdMO season", "value": "December–February" },
+        { "label": "APMO format", "value": "5 problems · 4 hours" },
+        { "label": "APMO since", "value": "1989" }
+      ],
+      "sources": [
+        { "label": "Bangladesh Mathematical Olympiad", "url": "https://matholympiad.org.bd/" },
+        { "label": "International Mathematical Olympiad", "url": "https://www.imo-official.org/" },
+        { "label": "Asia-Pacific Mathematics Olympiad", "url": "https://www.apmo-official.org/" }
+      ]
+    },
+    {
+      "id": "physics",
+      "subject": "Physics",
+      "tagline": "BdPhO → national selection → IPhO and APhO",
+      "summary": "The Bangladesh Physics Olympiad is the national route. It feeds selection for the International Physics Olympiad and the Asian Physics Olympiad. Both international competitions test theory and experimental work.",
+      "stages": [
+        {
+          "name": "School & regional",
+          "description": "BdPhO publishes its current registration and round structure each season. School and regional rounds are the usual first stage."
+        },
+        {
+          "name": "National",
+          "description": "Successful students progress to the national BdPhO round, where problems require physical modelling rather than recall."
+        },
+        {
+          "name": "Selection",
+          "description": "National performers may be invited to team selection and training. The BdPhO organiser controls the process."
+        },
+        {
+          "name": "International",
+          "description": "Bangladesh sends a team to the International Physics Olympiad and competes in the Asian Physics Olympiad."
+        }
+      ],
+      "international": [
+        {
+          "name": "IPhO",
+          "fullName": "International Physics Olympiad",
+          "url": "https://www.ipho-new.org/",
+          "note": "A theoretical and an experimental paper. Each national team is limited to five students, with two leaders.",
+          "eligibility": "Secondary school students selected by their national organisation."
+        },
+        {
+          "name": "APhO",
+          "fullName": "Asian Physics Olympiad",
+          "url": "http://asianphysicsolympiad.org/",
+          "note": "A regional physics competition with up to eight contestants per participating country.",
+          "eligibility": "Secondary school students from participating Asian countries."
+        }
+      ],
+      "facts": [
+        { "label": "IPhO team", "value": "Maximum 5 students" },
+        { "label": "IPhO leaders", "value": "2 per team" },
+        { "label": "IPhO papers", "value": "Theory and experiment" },
+        { "label": "APhO contestants", "value": "Up to 8 per country" }
+      ],
+      "sources": [
+        { "label": "Bangladesh Physics Olympiad", "url": "https://www.bdpho.org/" },
+        { "label": "International Physics Olympiad", "url": "https://www.ipho-new.org/" },
+        { "label": "Asian Physics Olympiad", "url": "http://asianphysicsolympiad.org/" }
+      ]
+    },
+    {
+      "id": "chemistry",
+      "subject": "Chemistry",
+      "tagline": "BChO → national selection → IChO",
+      "summary": "The Bangladesh Chemistry Olympiad is run through the Bangladesh Chemical Society. Strong national performers may be selected for the International Chemistry Olympiad, which combines theory with practical chemistry.",
+      "stages": [
+        {
+          "name": "School & regional",
+          "description": "The Bangladesh Chemical Society publishes the current BChO registration route and round structure. School and regional stages are the usual entry point."
+        },
+        {
+          "name": "National",
+          "description": "The national BChO round tests inorganic, organic and physical chemistry beyond the school syllabus."
+        },
+        {
+          "name": "Selection",
+          "description": "National awardees may be invited to selection and training for the international team. The chemical society controls selection."
+        },
+        {
+          "name": "International",
+          "description": "Bangladesh participates in the International Chemistry Olympiad, which includes theoretical and practical examinations."
+        }
+      ],
+      "international": [
+        {
+          "name": "IChO",
+          "fullName": "International Chemistry Olympiad",
+          "url": "https://www.ichosc.org/",
+          "note": "The official steering committee site lists the current host, programme and regulations.",
+          "eligibility": "Secondary school students selected by their national organisation."
+        }
+      ],
+      "facts": [
+        { "label": "National organiser", "value": "Bangladesh Chemical Society" },
+        { "label": "IChO papers", "value": "Theory and practical" },
+        { "label": "IChO regulations", "value": "Published by the steering committee" }
+      ],
+      "sources": [
+        { "label": "Bangladesh Chemical Society", "url": "https://www.chemicalsociety.org.bd/" },
+        { "label": "International Chemistry Olympiad", "url": "https://www.ichosc.org/" },
+        { "label": "IChO information site", "url": "http://www.icho.sk" }
+      ]
+    },
+    {
+      "id": "biology",
+      "subject": "Biology",
+      "tagline": "BDBO → national selection → IBO",
+      "summary": "The Bangladesh Biology Olympiad is the national route to the International Biology Olympiad. IBO preparation rewards careful data interpretation and structure–function reasoning as much as factual recall.",
+      "stages": [
+        {
+          "name": "School & regional",
+          "description": "BDBO publishes its registration and round structure each season. School and regional rounds are the usual first stage."
+        },
+        {
+          "name": "National",
+          "description": "The national BDBO round tests cell biology, genetics, physiology, ecology and evolution beyond the textbook."
+        },
+        {
+          "name": "Selection",
+          "description": "National awardees may be invited to selection and training. The BDBO organiser controls the process."
+        },
+        {
+          "name": "International",
+          "description": "Bangladesh participates in the International Biology Olympiad, which combines theoretical and practical tasks."
+        }
+      ],
+      "international": [
+        {
+          "name": "IBO",
+          "fullName": "International Biology Olympiad",
+          "url": "https://www.ibo-info.org/",
+          "note": "The official site publishes regulations, hosts and results. The past-paper archive is password-protected for teachers.",
+          "eligibility": "Secondary school students selected by their national organisation."
+        }
+      ],
+      "facts": [
+        { "label": "IBO papers", "value": "Theory and practical" },
+        { "label": "IBO archive", "value": "Password-protected for teachers" },
+        { "label": "National route", "value": "Bangladesh Biology Olympiad" }
+      ],
+      "sources": [
+        { "label": "Bangladesh Biology Olympiad", "url": "https://bdbo.org/" },
+        { "label": "International Biology Olympiad", "url": "https://www.ibo-info.org/" }
+      ]
+    },
+    {
+      "id": "junior-science",
+      "subject": "Junior science",
+      "tagline": "BdJSO → national camp → IJSO · IMSO",
+      "summary": "Junior science has two international routes. The Bangladesh Junior Science Olympiad feeds a six-member IJSO team through registration, regional or online rounds, a national round and a national camp. IMSO is the younger international route for mathematics and science.",
+      "stages": [
+        {
+          "name": "Registration",
+          "description": "Students register through the Bangladesh Junior Science Olympiad. The official route begins with registration, followed by regional or online rounds."
+        },
+        {
+          "name": "Regional or online",
+          "description": "The first competitive stage is a regional or online round, depending on the cycle. The BdJSO publishes the format."
+        },
+        {
+          "name": "National & camp",
+          "description": "Successful students progress to the national round and then a national camp. The camp prepares the team for the international competition."
+        },
+        {
+          "name": "International",
+          "description": "Bangladesh sends a six-member team to the International Junior Science Olympiad. The 2026 IJSO is in Bulgaria. IMSO is a separate international route for younger students."
+        }
+      ],
+      "international": [
+        {
+          "name": "IJSO",
+          "fullName": "International Junior Science Olympiad",
+          "url": "https://ijsoweb.org/",
+          "note": "Integrated science: physics, chemistry and biology. Bangladesh’s route runs through BdJSO and a national camp.",
+          "eligibility": "Under 16 on the competition’s cut-off date; confirm the current rule with the organiser."
+        },
+        {
+          "name": "IMSO",
+          "fullName": "International Mathematics and Science Olympiad",
+          "url": "https://sites.google.com/view/imso-hq/",
+          "note": "A mathematics and science competition for younger students, with national delegations.",
+          "eligibility": "Under 13; confirm the current rule with the organiser."
+        }
+      ],
+      "facts": [
+        { "label": "BdJSO route", "value": "Registration → regional/online → national → camp → team" },
+        { "label": "IJSO team", "value": "Six members" },
+        { "label": "IJSO 2026", "value": "Bulgaria" },
+        { "label": "IJSO age", "value": "Under 16" },
+        { "label": "IMSO age", "value": "Under 13" }
+      ],
+      "sources": [
+        { "label": "Bangladesh Junior Science Olympiad", "url": "https://bdjso.org/" },
+        { "label": "International Junior Science Olympiad", "url": "https://ijsoweb.org/" },
+        { "label": "IMSO headquarters", "url": "https://sites.google.com/view/imso-hq/" }
+      ]
+    }
+  ]
+}

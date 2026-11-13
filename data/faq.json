@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "q": "Which classes does TEMS teach?",
+      "a": "TEMS runs offline batches for Classes 3–10 at its Dhaka campus, across Primary (3–5), Junior (6–8) and Secondary (9–10) divisions. The application form also accepts Classes 11–12 enquiries, but the academy has not confirmed whether it runs regular batches for those classes. Ask before applying.",
+      "home": true
+    },
+    {
+      "q": "Where is the campus?",
+      "a": "House 06, Road 1/1, Shekertek Adabor, Mohammadpur-1207, Dhaka. The map pin is on the Contact page. Message on WhatsApp before visiting so a mentor can be free to meet you.",
+      "home": true
+    },
+    {
+      "q": "How much does it cost?",
+      "a": "Mathematics is Tk 2,500 per month at any division and any tier. Science is Tk 2,700 per month and includes Physics, Chemistry, Biology and laboratory work. The fee does not change when a student is promoted.",
+      "home": true
+    },
+    {
+      "q": "Is there an entrance exam?",
+      "a": "There is a diagnostic test, but it is not a pass/fail entrance exam. It places the student in the division and tier that fit their current ability. The placement is confirmed in writing before the first class.",
+      "home": true
+    },
+    {
+      "q": "My child is strong in school. Will the work be hard enough?",
+      "a": "Placement ignores the school report. A student who is ready for harder problems is placed in a higher tier, including Sigma. The monthly benchmark then checks whether the tier is still the right fit.",
+      "home": true
+    },
+    {
+      "q": "Can my child move up or down?",
+      "a": "Yes. The top quartile of a batch may be promoted at the monthly review, and a student who is slipping is re-placed rather than left behind. Acceleration can happen at any time when the evidence supports it.",
+      "home": true
+    },
+    {
+      "q": "What happens in the first month?",
+      "a": "The student sits the diagnostic, receives a written placement, starts the weekly problem sets, and sits the first monthly benchmark at the end of the month. The benchmark decides whether the placement continues or changes.",
+      "home": true
+    },
+    {
+      "q": "Do you prepare for BdMO and international olympiads?",
+      "a": "Yes. TEMS preparation follows the national pathway in each subject and the international competitions that pathway feeds, including BdMO, IJSO, IMSO, IPhO, APhO, IChO and IBO. The Pathway page shows each route with official links.",
+      "home": true
+    },
+    {
+      "q": "Are science laboratories included?",
+      "a": "Science students work in the academy’s laboratories. The science programme covers Physics, Chemistry and Biology, including practical work relevant to IJSO, IPhO, IChO and IBO preparation.",
+      "home": false
+    },
+    {
+      "q": "Are scholarships available?",
+      "a": "Merit scholarships and cash prizes are awarded separately at the Chairman’s discretion. They are not a standard discount on the monthly fee, and individual amounts are not published.",
+      "home": false
+    },
+    {
+      "q": "How do I apply?",
+      "a": "Send the application form on this site or message the academy on WhatsApp. The process is: application, diagnostic test, placement confirmed in writing, then the first class. Response times vary with the admissions queue.",
+      "home": false
+    },
+    {
+      "q": "Can we visit before applying?",
+      "a": "Yes, but message first. The academy has not published fixed office hours, so WhatsApp is the reliable way to arrange a visit.",
+      "home": false
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "home": {
+    "title": "Olympiad Math & Science Coaching in Dhaka",
+    "description": "TEMS Academy trains Classes 3–10 for olympiad math and science in Dhaka. Placed by ability, weekly problem sets, monthly benchmarks. Math Tk 2,500, Science Tk 2,700.",
+    "kicker": "Dhaka · Since 2013 · Classes 3–10",
+    "heading": "Think beyond textbooks.",
+    "headingAccent": "Train for the problems you haven’t seen.",
+    "lead": "TEMS Academy is an offline olympiad school in Dhaka. Students are placed by ability, not by grade, and trained through weekly problem sets, laboratory work and competition pathways."
+  },
+  "class-structure": {
+    "title": "Class Structure & Batches",
+    "description": "Three divisions, three tiers and ten running batches. See every TEMS batch, syllabus, session time, fee and the monthly benchmark that decides promotion.",
+    "kicker": "Class structure",
+    "heading": "Placed by ability,",
+    "headingAccent": "not by grade.",
+    "lead": "Every student sits a diagnostic test. The result decides the division and tier, not the class on the school report. Batches are reviewed against a monthly benchmark and placements change when the evidence changes."
+  },
+  "pathway": {
+    "title": "Olympiad Pathway: School to International",
+    "description": "Follow each subject from school and regional rounds to the national stage and international teams. Official links and eligibility notes for every olympiad subject.",
+    "kicker": "Olympiad pathway",
+    "heading": "From a school round",
+    "headingAccent": "to an international team.",
+    "lead": "Bangladesh’s olympiad routes differ by subject. These timelines show the usual progression, the official organisers to follow, and where TEMS preparation fits. Always confirm dates and eligibility with the official source."
+  },
+  "sample-problems": {
+    "title": "Sample Problems by Tier",
+    "description": "Original olympiad-style problems in mathematics, physics, chemistry and biology for Gamma, Alpha and Sigma tiers, with hints and worked solutions.",
+    "kicker": "Sample problems",
+    "heading": "A problem is a place",
+    "headingAccent": "to start thinking.",
+    "lead": "These are original problems written for this site to show the level of work at each tier. They are not past exam questions. Try the hint before opening the solution."
+  },
+  "resources": {
+    "title": "Study Guides, Books & Past Papers",
+    "description": "TEMS study guides, reference books and official past-paper archives for olympiad mathematics, physics, chemistry, biology and junior science.",
+    "kicker": "Resources",
+    "heading": "A short shelf,",
+    "headingAccent": "chosen carefully.",
+    "lead": "Study guides written by the academy, a small reference shelf, and direct links to the official archives. No scraped papers, no dead mirrors."
+  },
+  "results": {
+    "title": "Results Archive",
+    "description": "TEMS Academy results by year, with the competition, the students involved where names are supplied, and a source for every claim.",
+    "kicker": "Results archive",
+    "heading": "Every result",
+    "headingAccent": "we can support with a source.",
+    "lead": "The archive lists only achievements supplied by the academy. Where a name has not been supplied, we write “TEMS student” or “TEMS delegation” rather than guessing. Years are shown only when confirmed."
+  },
+  "faculty": {
+    "title": "Faculty & Mentors",
+    "description": "TEMS mentors include Olympiad medalists, national-team alumni and senior academic faculty. Individual profiles are published only with consent and verified details.",
+    "kicker": "Faculty",
+    "heading": "Mentors who have",
+    "headingAccent": "sat with the problem.",
+    "lead": "The academy describes its mentors as olympiad medalists, national-team alumni and senior academic faculty. Individual names and biographies will be added only when supplied and approved."
+  },
+  "admissions": {
+    "title": "Admissions & Fees",
+    "description": "Apply to TEMS Academy in four steps: application, diagnostic test, placement confirmed in writing, first class. Fees, what to bring and scholarship notes.",
+    "kicker": "Admissions",
+    "heading": "Four steps from",
+    "headingAccent": "question to first class.",
+    "lead": "There is no entrance exam to pass. The diagnostic is a placement test: it tells us which division and tier fit the student now. The placement is confirmed in writing before the first class."
+  },
+  "contact": {
+    "title": "Contact & Campus",
+    "description": "Visit TEMS Academy at House 06, Road 1/1, Shekertek Adabor, Mohammadpur-1207, Dhaka. WhatsApp, email, map and campus details.",
+    "kicker": "Contact",
+    "heading": "Come to Adabor.",
+    "headingAccent": "Bring a question.",
+    "lead": "The campus is in Shekertek Adabor, Mohammadpur. Message before visiting so a mentor can be free to talk through placement, fees or the diagnostic."
+  },
+  "terms": {
+    "title": "Terms & Conditions",
+    "description": "Terms governing applications, placement, fees, attendance, conduct and use of the TEMS Academy website.",
+    "kicker": "Terms",
+    "heading": "Terms & conditions.",
+    "headingAccent": "Plainly stated.",
+    "lead": "These terms cover use of this website, applications, placement, fees and conduct at the academy. They are written to be read, not to hide behind."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "description": "What TEMS Academy collects through applications and enquiries, why it is collected, who processes it, and how to ask for access or deletion.",
+    "kicker": "Privacy",
+    "heading": "Privacy policy.",
+    "headingAccent": "What we hold, and why.",
+    "lead": "This site collects only what is needed to answer an application or enquiry. It does not use advertising cookies or behavioural tracking."
+  },
+  "404": {
+    "title": "Page Not Found",
+    "description": "The page you requested was not found. Return to TEMS Academy or use the main navigation.",
+    "kicker": "404",
+    "heading": "That page",
+    "headingAccent": "is not on the board.",
+    "lead": "The link may be old or mistyped. Start from the homepage, or go straight to class structure, sample problems or admissions."
+  }
+}

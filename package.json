@@ -1,0 +1,18 @@
+{
+  "name": "tems-academy-website",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "TEMS Academy of Olympiad Math & Science — static site generated from data/*.json",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/build.mjs && node scripts/check.mjs",
+    "serve": "node scripts/serve.mjs",
+    "dev": "node scripts/build.mjs && node scripts/serve.mjs",
+    "images": "python scripts/prepare-images.py",
+    "fonts": "python scripts/prepare-fonts.py"
+  },
+  "dependencies": {
+    "katex": "^0.16.22"
+  }
+}

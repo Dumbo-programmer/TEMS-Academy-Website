@@ -1,0 +1,16 @@
+# Keep build sources and the previous site out of the deployed static assets.
+# Cloudflare Pages still processes _headers, _redirects and functions/.
+
+/scripts/
+/data/
+/images/
+/functions/
+/node_modules/
+/.wrangler/
+
+*.md
+/package.json
+/package-lock.json
+/wrangler.toml
+
+/TEMS Logo - main transparent.png

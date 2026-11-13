@@ -1,0 +1,37 @@
+{
+  "statement": "TEMS mentors include Olympiad medalists and national-team alumni.",
+  "statementNote": "This is how the academy describes its teaching team in its own published material. Individual names, subjects and biographies have not yet been supplied for publication.",
+  "areas": [
+    {
+      "subject": "Mathematics",
+      "focus": "Algebra, geometry, number theory, combinatorics and proof.",
+      "detail": "Mentors work through problems alongside students, then read and mark written solutions. The emphasis is on a clear argument, not only a correct answer."
+    },
+    {
+      "subject": "Physics",
+      "focus": "Mechanics, waves, electricity, thermodynamics and experimental work.",
+      "detail": "Sessions move between diagrams, assumptions and equations. Laboratory work connects the model to a measurement and its uncertainty."
+    },
+    {
+      "subject": "Chemistry",
+      "focus": "Physical, inorganic and organic chemistry, with laboratory technique.",
+      "detail": "Students learn to move between mass, moles, concentration and structure, and to check a quantitative answer against the reaction it describes."
+    },
+    {
+      "subject": "Biology",
+      "focus": "Cell biology, genetics, physiology, ecology and data interpretation.",
+      "detail": "Mentors push students from recall into structure–function reasoning and evidence-based explanation, the style IBO and IJSO reward."
+    },
+    {
+      "subject": "Junior science",
+      "focus": "Integrated IJSO preparation across physics, chemistry and biology.",
+      "detail": "Junior science mentors connect the three sciences around a single problem, including practical work and experimental error."
+    }
+  ],
+  "policy": [
+    "Names, subjects and credentials are published only with the mentor’s consent.",
+    "No profile, qualification or competition record is invented or borrowed.",
+    "The academy’s published material describes its mentors as Olympiad medalists, national-team alumni and senior academic faculty; individual claims will be added only when verified.",
+    "Mentor assignments and batch teaching teams are confirmed at placement."
+  ]
+}

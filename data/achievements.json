@@ -1,0 +1,156 @@
+{
+  "proof": [
+    {
+      "value": "91+",
+      "label": "BdMO winners & awardees",
+      "source": "Regional BdMO 2026",
+      "note": "As reported by the academy."
+    },
+    {
+      "value": "2025",
+      "label": "IJSO international medal",
+      "source": "IJSO 2025 · Russia",
+      "note": "International Junior Science Olympiad."
+    },
+    {
+      "value": "2026",
+      "label": "APhO Bangladesh team selection",
+      "source": "Asian Physics Olympiad 2026",
+      "note": "TEMS students in the national selection."
+    },
+    {
+      "value": "2013",
+      "label": "Training Olympiad students in Dhaka",
+      "source": "TEMS Academy",
+      "note": "Offline campus, Classes 3–10."
+    }
+  ],
+  "filters": [
+    { "id": "all", "label": "All results" },
+    { "id": "international", "label": "International" },
+    { "id": "national", "label": "National" },
+    { "id": "awards", "label": "Awards & scholarships" }
+  ],
+  "items": [
+    {
+      "id": "regional-bdmo-2026",
+      "category": "national",
+      "categoryLabel": "National",
+      "year": "2026",
+      "title": "91+ winners and awardees",
+      "detail": "More than ninety TEMS students and alumni were recognised as winners or awardees at the Regional Bangladesh Mathematical Olympiad 2026, as reported by the academy.",
+      "student": null,
+      "studentLabel": "TEMS students & alumni",
+      "source": "Regional BdMO 2026",
+      "photo": "math-winners",
+      "photoAlt": "Mathematics Olympiad winners from TEMS.",
+      "caption": "Mathematics Olympiad winners from TEMS.",
+      "featured": true
+    },
+    {
+      "id": "apho-2026",
+      "category": "international",
+      "categoryLabel": "International",
+      "year": "2026",
+      "title": "APhO Bangladesh team selection",
+      "detail": "TEMS students were part of Bangladesh’s team selection for the Asian Physics Olympiad 2026.",
+      "student": null,
+      "studentLabel": "TEMS students",
+      "source": "Asian Physics Olympiad 2026",
+      "photo": "physics-winners",
+      "photoAlt": "Physics Olympiad winners photographed together with their certificates.",
+      "caption": "Physics Olympiad winners from TEMS.",
+      "featured": true
+    },
+    {
+      "id": "ijso-2025",
+      "category": "international",
+      "categoryLabel": "International",
+      "year": "2025",
+      "title": "IJSO international medal",
+      "detail": "A TEMS student won an international medal at the International Junior Science Olympiad 2025 in Russia.",
+      "student": null,
+      "studentLabel": "TEMS student",
+      "source": "IJSO 2025 · Russia",
+      "photo": "ijso-silver",
+      "photoAlt": "IJSO 2025 medal photograph supplied by TEMS Academy.",
+      "caption": "IJSO 2025 medal photograph.",
+      "featured": true
+    },
+    {
+      "id": "bdmso-champion",
+      "category": "national",
+      "categoryLabel": "National",
+      "year": null,
+      "title": "BDMSO national champion",
+      "detail": "Nabeh became national champion at BDMSO and is photographed with the TEMS Chairman.",
+      "student": "Nabeh",
+      "studentLabel": "Nabeh",
+      "source": "BDMSO national round",
+      "photo": "nabeh-bdmso",
+      "photoAlt": "Nabeh, BDMSO national champion, photographed with the TEMS Chairman.",
+      "caption": "Nabeh, BDMSO national champion, with the TEMS Chairman.",
+      "featured": true
+    },
+    {
+      "id": "imso-delegation",
+      "category": "international",
+      "categoryLabel": "International",
+      "year": null,
+      "title": "IMSO international delegation",
+      "detail": "TEMS students represented Bangladesh in an International Mathematics and Science Olympiad delegation.",
+      "student": null,
+      "studentLabel": "TEMS delegation",
+      "source": "International Mathematics and Science Olympiad",
+      "photo": "imso-winners",
+      "photoAlt": "IMSO winners from Bangladesh photographed together.",
+      "caption": "IMSO winners from Bangladesh.",
+      "featured": true
+    },
+    {
+      "id": "bdpho-awardees",
+      "category": "national",
+      "categoryLabel": "National",
+      "year": null,
+      "title": "BdPhO national awardees",
+      "detail": "TEMS students were recognised as national awardees at the Bangladesh Physics Olympiad.",
+      "student": null,
+      "studentLabel": "TEMS students",
+      "source": "Bangladesh Physics Olympiad",
+      "photo": "physics-winners",
+      "photoAlt": "TEMS physics Olympiad winners with certificates and medals.",
+      "caption": "Physics Olympiad awardees from TEMS.",
+      "featured": false
+    },
+    {
+      "id": "math-olympiad-awardees",
+      "category": "national",
+      "categoryLabel": "National",
+      "year": null,
+      "title": "Math Olympiad national awardees",
+      "detail": "TEMS students were recognised as national awardees at the Bangladesh Mathematical Olympiad.",
+      "student": null,
+      "studentLabel": "TEMS students",
+      "source": "Bangladesh Mathematical Olympiad",
+      "photo": "math-winners",
+      "photoAlt": "TEMS mathematics Olympiad winners photographed together.",
+      "caption": "Mathematics Olympiad winners from TEMS.",
+      "featured": false
+    },
+    {
+      "id": "chairman-scholarships",
+      "category": "awards",
+      "categoryLabel": "Awards & scholarships",
+      "year": null,
+      "title": "Chairman’s merit scholarships",
+      "detail": "Merit scholarships and cash prizes are awarded separately at the Chairman’s discretion. The academy has not published individual amounts.",
+      "student": null,
+      "studentLabel": "TEMS students",
+      "source": "TEMS Academy",
+      "photo": "scholarship",
+      "photoAlt": "TEMS Chairman giving prize money to students at the academy.",
+      "caption": "The Chairman presenting prize money to students.",
+      "featured": false
+    }
+  ]
+}
