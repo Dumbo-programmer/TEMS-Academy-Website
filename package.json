@@ -13,6 +13,6 @@
     "fonts": "python scripts/prepare-fonts.py"
   },
   "dependencies": {
-    "katex": "^0.16.22"
+    "katex": "^0.18.2"
   }
 }
